@@ -1,4 +1,3 @@
-# financial-control-app
 <h1>FINANCIAL CONTROL APP</h1>
 
 Aplicação desenvolvida no Bootcamp Full-Stack da IGTI no desafio final.
